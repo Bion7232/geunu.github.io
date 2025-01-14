@@ -113,15 +113,15 @@ skills:
       - name: Python
         description: ''
         percent: 85
-        icon: code-bracket
+        icon: python
       - name: Machine Learning
         description: ''
         percent: 90
-        icon: chart-bar
+        icon: machine_learning
       - name: Computer Vision
         description: ''
         percent: 80
-        icon: circle-stack
+        icon: computer_vision
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
